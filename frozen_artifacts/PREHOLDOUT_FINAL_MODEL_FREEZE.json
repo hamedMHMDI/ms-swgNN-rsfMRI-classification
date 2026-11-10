@@ -1,0 +1,116 @@
+{
+  "freeze_id": "FINAL_SWGNN_MS_HC_V1_PREHOLDOUT",
+  "freeze_timestamp_utc": "2026-08-16T20:49:08.286386+00:00",
+  "task": "MS_vs_HC_binary_classification",
+  "labels": {
+    "0": "HC",
+    "1": "MS"
+  },
+  "atlas": {
+    "name": "Schaefer2018",
+    "n_rois": 200,
+    "yeo_networks": 7
+  },
+  "node_representation": {
+    "name": "HANDCRAFTED13",
+    "n_features": 13,
+    "temporal_features_7": [
+      "absolute_sum_of_changes",
+      "benford_correlation",
+      "c3_lag7",
+      "cid_ce_normalized",
+      "longest_strike_above_mean",
+      "skewness",
+      "quantile_q25"
+    ],
+    "fc_summary_features_6": [
+      "mean_signed_fc",
+      "mean_absolute_fc",
+      "std_signed_fc",
+      "mean_positive_fc",
+      "mean_negative_magnitude",
+      "fraction_negative_edges"
+    ],
+    "feature_selection_status": "FROZEN; no further feature selection permitted."
+  },
+  "graph": {
+    "construction": "dense_signed_Pearson_functional_connectivity",
+    "n_nodes": 200,
+    "n_unique_undirected_edges": 19900,
+    "n_directed_no_self_loop_entries": 39800,
+    "thresholding": null,
+    "signed_channels": "positive and negative propagated separately"
+  },
+  "architecture": {
+    "name": "SignedWeightedGNN",
+    "n_graph_layers": 2,
+    "hidden_dim": 64,
+    "dropout": 0.3,
+    "activation": "ELU",
+    "normalization": "LayerNorm inside signed weighted layers",
+    "readout": "global_mean_pool",
+    "classifier": "64 -> 32 -> 2"
+  },
+  "training": {
+    "training_subjects": 159,
+    "training_scope": "all development subjects",
+    "epochs": 60,
+    "batch_size": 8,
+    "optimizer": "AdamW",
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "scheduler": "CosineAnnealingLR(T_max=60)",
+    "class_weighting": "balanced from development labels",
+    "node_feature_scaling": "featurewise mean/std fitted using all nodes from development subjects only",
+    "gradient_clip_norm": 5.0,
+    "seeds": [
+      20260808,
+      20260818,
+      20260828
+    ]
+  },
+  "ensemble": {
+    "rule": "mean MS probability across the three predetermined seeds",
+    "probability_aggregation": "arithmetic_mean",
+    "classification_threshold": 0.5,
+    "primary_prediction": "three_seed_probability_mean",
+    "seed_selection_using_holdout": false
+  },
+  "evaluation": {
+    "primary_metrics": [
+      "balanced_accuracy",
+      "mcc",
+      "roc_auc",
+      "sensitivity",
+      "specificity"
+    ],
+    "secondary_metrics": [
+      "accuracy",
+      "macro_f1"
+    ],
+    "bootstrap": {
+      "type": "stratified_subject_bootstrap",
+      "repetitions": 10000,
+      "random_seed": 20260816,
+      "confidence_interval": "percentile_95"
+    },
+    "threshold_tuning_on_holdout": false,
+    "model_reselection_after_holdout": false
+  },
+  "protocol": {
+    "n_development": 159,
+    "n_final_holdout": 40,
+    "final_holdout_used_at_freeze_time": false,
+    "rule": "The holdout is evaluated once after this freeze record is written."
+  },
+  "artifact_hashes": {
+    "tsfresh7": "a84628583f52cbe7d741cf07eda6387d507666fccecab0e7de6917d0284a4e2c",
+    "fc_summary6": "af684ae5491ea27451593c0557d2f4a42ecdf38e6c1cdcf0864eb4524a75970a",
+    "handcrafted13": "38e559597c7221d48f203b90f4b3f981979254fab21824b837535c2be862d1fe",
+    "edge_index": "1c898fab5b32ae47dfbec006c644d9ffa9b05763fc9508a90aa392a279b5bf70",
+    "edge_weight": "7c8a30ef976d46578c6733d70978ee92cdb25e33cb14bfb68e9fb4f941e19634",
+    "labels": "36e44549f3874a5196f3d4ef72f8448683bc610f01684677706f1575ff116f31",
+    "development_indices": "3b85e4e4868b2e794d06af3031995344661d37337b70b5c7f5c88ec5434e89fc",
+    "holdout_indices": "1f69dc61b9b8873182d98dc5c64a1db36e4b218bbe8a113ad04b405f62d6a44e"
+  }
+}

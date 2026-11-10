@@ -1,0 +1,72 @@
+{
+  "freeze_id": "FINAL_SWGNN_MS_HC_V1_PREHOLDOUT",
+  "final_seeds": [
+    20260808,
+    20260818,
+    20260828
+  ],
+  "threshold": 0.5,
+  "feature_names": [
+    "absolute_sum_of_changes",
+    "benford_correlation",
+    "c3_lag7",
+    "cid_ce_normalized",
+    "longest_strike_above_mean",
+    "skewness",
+    "quantile_q25",
+    "mean_signed_fc",
+    "mean_absolute_fc",
+    "std_signed_fc",
+    "mean_positive_fc",
+    "mean_negative_magnitude",
+    "fraction_negative_edges"
+  ],
+  "software_versions": {
+    "numpy": "2.0.2",
+    "pandas": "2.2.2",
+    "torch": "2.11.0+cpu",
+    "tsfresh": "0.21.2"
+  },
+  "artifacts": [
+    {
+      "path": "/content/drive/MyDrive/GNN-fMRI-MS/results/final_holdout_evaluation_v1/PREHOLDOUT_FINAL_MODEL_FREEZE.json",
+      "sha256": "8c87a7a0ecd955a5d29f365d5f8d57b30b383b6cf460487f028eb256f805caf1",
+      "size_bytes": 3675
+    },
+    {
+      "path": "/content/drive/MyDrive/GNN-fMRI-MS/results/final_holdout_evaluation_v1/final_development_feature_scaler.npz",
+      "sha256": "177e3ce0cc2ec8c8a5ae9bf777588e51781886336274526e835fed41dc5bfd4e",
+      "size_bytes": 1266
+    },
+    {
+      "path": "/content/drive/MyDrive/GNN-fMRI-MS/results/final_holdout_evaluation_v1/final_models/FINAL_SWGNN_seed20260808.pt",
+      "sha256": "85c2da41ee0c3c8c573e763aa9ff22819a0cf530519f6ca0b99f6521a7f465f5",
+      "size_bytes": 77225
+    },
+    {
+      "path": "/content/drive/MyDrive/GNN-fMRI-MS/results/final_holdout_evaluation_v1/final_models/FINAL_SWGNN_seed20260818.pt",
+      "sha256": "8c0f30f46b18fc9bc8a440cbb6e8d8e2901d2cbe4a88650d7b7f8b59f483c02f",
+      "size_bytes": 77225
+    },
+    {
+      "path": "/content/drive/MyDrive/GNN-fMRI-MS/results/final_holdout_evaluation_v1/final_models/FINAL_SWGNN_seed20260828.pt",
+      "sha256": "4c005b5e425868c065b69bef872f0ade024a4b5a2124e9473baef484f1943c67",
+      "size_bytes": 77225
+    }
+  ],
+  "representation_self_test_passed": true,
+  "model_output_self_test_performed": true,
+  "input_contract": {
+    "data_type": "preprocessed Schaefer-200 ROI time series",
+    "preferred_shape": [
+      990,
+      200
+    ],
+    "alternate_shape_auto_transposed": [
+      200,
+      990
+    ],
+    "roi_order": "must exactly match frozen Schaefer-200 atlas order",
+    "not_supported_as_direct_input": "scanner/NIfTI raw fMRI"
+  }
+}

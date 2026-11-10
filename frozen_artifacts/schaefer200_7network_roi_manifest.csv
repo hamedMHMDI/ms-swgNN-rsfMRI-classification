@@ -1,0 +1,201 @@
+source_node_number_1based,roi_index,roi_name,hemisphere,yeo7_network,dissertation_network_abbrev,mapping_source
+1,0,LH_Vis_1,Left,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+2,1,LH_Vis_2,Left,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+3,2,LH_Vis_3,Left,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+4,3,LH_Vis_4,Left,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+5,4,LH_Vis_5,Left,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+6,5,LH_Vis_6,Left,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+7,6,LH_Vis_7,Left,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+8,7,LH_Vis_8,Left,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+9,8,LH_Vis_9,Left,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+10,9,LH_Vis_10,Left,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+11,10,LH_Vis_11,Left,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+12,11,LH_Vis_12,Left,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+13,12,LH_Vis_13,Left,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+14,13,LH_Vis_14,Left,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+15,14,LH_SomMot_1,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+16,15,LH_SomMot_2,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+17,16,LH_SomMot_3,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+18,17,LH_SomMot_4,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+19,18,LH_SomMot_5,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+20,19,LH_SomMot_6,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+21,20,LH_SomMot_7,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+22,21,LH_SomMot_8,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+23,22,LH_SomMot_9,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+24,23,LH_SomMot_10,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+25,24,LH_SomMot_11,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+26,25,LH_SomMot_12,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+27,26,LH_SomMot_13,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+28,27,LH_SomMot_14,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+29,28,LH_SomMot_15,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+30,29,LH_SomMot_16,Left,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+31,30,LH_DorsAttn_Post_1,Left,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+32,31,LH_DorsAttn_Post_2,Left,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+33,32,LH_DorsAttn_Post_3,Left,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+34,33,LH_DorsAttn_Post_4,Left,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+35,34,LH_DorsAttn_Post_5,Left,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+36,35,LH_DorsAttn_Post_6,Left,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+37,36,LH_DorsAttn_Post_7,Left,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+38,37,LH_DorsAttn_Post_8,Left,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+39,38,LH_DorsAttn_Post_9,Left,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+40,39,LH_DorsAttn_Post_10,Left,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+41,40,LH_DorsAttn_FEF_1,Left,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+42,41,LH_DorsAttn_FEF_2,Left,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+43,42,LH_DorsAttn_PrCv_1,Left,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+44,43,LH_SalVentAttn_ParOper_1,Left,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+45,44,LH_SalVentAttn_ParOper_2,Left,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+46,45,LH_SalVentAttn_ParOper_3,Left,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+47,46,LH_SalVentAttn_FrOperIns_1,Left,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+48,47,LH_SalVentAttn_FrOperIns_2,Left,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+49,48,LH_SalVentAttn_FrOperIns_3,Left,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+50,49,LH_SalVentAttn_FrOperIns_4,Left,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+51,50,LH_SalVentAttn_PFCl_1,Left,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+52,51,LH_SalVentAttn_Med_1,Left,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+53,52,LH_SalVentAttn_Med_2,Left,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+54,53,LH_SalVentAttn_Med_3,Left,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+55,54,LH_Limbic_OFC_1,Left,Limbic,LN,Hejazi 2024 dissertation Appendix pp. 90-91
+56,55,LH_Limbic_OFC_2,Left,Limbic,LN,Hejazi 2024 dissertation Appendix pp. 90-91
+57,56,LH_Limbic_TempPole_1,Left,Limbic,LN,Hejazi 2024 dissertation Appendix pp. 90-91
+58,57,LH_Limbic_TempPole_2,Left,Limbic,LN,Hejazi 2024 dissertation Appendix pp. 90-91
+59,58,LH_Limbic_TempPole_3,Left,Limbic,LN,Hejazi 2024 dissertation Appendix pp. 90-91
+60,59,LH_Limbic_TempPole_4,Left,Limbic,LN,Hejazi 2024 dissertation Appendix pp. 90-91
+61,60,LH_Cont_Par_1,Left,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+62,61,LH_Cont_Par_2,Left,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+63,62,LH_Cont_Par_3,Left,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+64,63,LH_Cont_Temp_1,Left,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+65,64,LH_Cont_OFC_1,Left,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+66,65,LH_Cont_PFCl_1,Left,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+67,66,LH_Cont_PFCl_2,Left,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+68,67,LH_Cont_PFCl_3,Left,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+69,68,LH_Cont_PFCl_4,Left,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+70,69,LH_Cont_PFCl_5,Left,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+71,70,LH_Cont_pCun_1,Left,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+72,71,LH_Cont_Cing_1,Left,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+73,72,LH_Cont_Cing_2,Left,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+74,73,LH_Default_Temp_1,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+75,74,LH_Default_Temp_2,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+76,75,LH_Default_Temp_3,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+77,76,LH_Default_Temp_4,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+78,77,LH_Default_Temp_5,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+79,78,LH_Default_Par_1,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+80,79,LH_Default_Par_2,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+81,80,LH_Default_Par_3,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+82,81,LH_Default_Par_4,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+83,82,LH_Default_PFC_1,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+84,83,LH_Default_PFC_2,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+85,84,LH_Default_PFC_3,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+86,85,LH_Default_PFC_4,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+87,86,LH_Default_PFC_5,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+88,87,LH_Default_PFC_6,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+89,88,LH_Default_PFC_7,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+90,89,LH_Default_PFC_8,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+91,90,LH_Default_PFC_9,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+92,91,LH_Default_PFC_10,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+93,92,LH_Default_PFC_11,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+94,93,LH_Default_PFC_12,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+95,94,LH_Default_PFC_13,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+96,95,LH_Default_pCunPCC_1,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+97,96,LH_Default_pCunPCC_2,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+98,97,LH_Default_pCunPCC_3,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+99,98,LH_Default_pCunPCC_4,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+100,99,LH_Default_PHC_1,Left,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+101,100,RH_Vis_1,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+102,101,RH_Vis_2,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+103,102,RH_Vis_3,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+104,103,RH_Vis_4,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+105,104,RH_Vis_5,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+106,105,RH_Vis_6,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+107,106,RH_Vis_7,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+108,107,RH_Vis_8,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+109,108,RH_Vis_9,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+110,109,RH_Vis_10,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+111,110,RH_Vis_11,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+112,111,RH_Vis_12,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+113,112,RH_Vis_13,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+114,113,RH_Vis_14,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+115,114,RH_Vis_15,Right,Visual,VN,Hejazi 2024 dissertation Appendix pp. 90-91
+116,115,RH_SomMot_1,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+117,116,RH_SomMot_2,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+118,117,RH_SomMot_3,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+119,118,RH_SomMot_4,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+120,119,RH_SomMot_5,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+121,120,RH_SomMot_6,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+122,121,RH_SomMot_7,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+123,122,RH_SomMot_8,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+124,123,RH_SomMot_9,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+125,124,RH_SomMot_10,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+126,125,RH_SomMot_11,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+127,126,RH_SomMot_12,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+128,127,RH_SomMot_13,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+129,128,RH_SomMot_14,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+130,129,RH_SomMot_15,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+131,130,RH_SomMot_16,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+132,131,RH_SomMot_17,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+133,132,RH_SomMot_18,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+134,133,RH_SomMot_19,Right,Somatomotor,SMN,Hejazi 2024 dissertation Appendix pp. 90-91
+135,134,RH_DorsAttn_Post_1,Right,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+136,135,RH_DorsAttn_Post_2,Right,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+137,136,RH_DorsAttn_Post_3,Right,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+138,137,RH_DorsAttn_Post_4,Right,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+139,138,RH_DorsAttn_Post_5,Right,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+140,139,RH_DorsAttn_Post_6,Right,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+141,140,RH_DorsAttn_Post_7,Right,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+142,141,RH_DorsAttn_Post_8,Right,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+143,142,RH_DorsAttn_Post_9,Right,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+144,143,RH_DorsAttn_Post_10,Right,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+145,144,RH_DorsAttn_FEF_1,Right,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+146,145,RH_DorsAttn_FEF_2,Right,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+147,146,RH_DorsAttn_PrCv_1,Right,Dorsal Attention,DAN,Hejazi 2024 dissertation Appendix pp. 90-91
+148,147,RH_SalVentAttn_TempOccPar_1,Right,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+149,148,RH_SalVentAttn_TempOccPar_2,Right,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+150,149,RH_SalVentAttn_TempOccPar_3,Right,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+151,150,RH_SalVentAttn_PrC_1,Right,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+152,151,RH_SalVentAttn_FrOperIns_1,Right,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+153,152,RH_SalVentAttn_FrOperIns_2,Right,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+154,153,RH_SalVentAttn_FrOperIns_3,Right,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+155,154,RH_SalVentAttn_FrOperIns_4,Right,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+156,155,RH_SalVentAttn_Med_1,Right,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+157,156,RH_SalVentAttn_Med_2,Right,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+158,157,RH_SalVentAttn_Med_3,Right,Salience/Ventral Attention,VAN,Hejazi 2024 dissertation Appendix pp. 90-91
+159,158,RH_Limbic_OFC_1,Right,Limbic,LN,Hejazi 2024 dissertation Appendix pp. 90-91
+160,159,RH_Limbic_OFC_2,Right,Limbic,LN,Hejazi 2024 dissertation Appendix pp. 90-91
+161,160,RH_Limbic_OFC_3,Right,Limbic,LN,Hejazi 2024 dissertation Appendix pp. 90-91
+162,161,RH_Limbic_TempPole_1,Right,Limbic,LN,Hejazi 2024 dissertation Appendix pp. 90-91
+163,162,RH_Limbic_TempPole_2,Right,Limbic,LN,Hejazi 2024 dissertation Appendix pp. 90-91
+164,163,RH_Limbic_TempPole_3,Right,Limbic,LN,Hejazi 2024 dissertation Appendix pp. 90-91
+165,164,RH_Cont_Par_1,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+166,165,RH_Cont_Par_2,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+167,166,RH_Cont_Par_3,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+168,167,RH_Cont_Temp_1,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+169,168,RH_Cont_PFCv_1,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+170,169,RH_Cont_PFCl_1,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+171,170,RH_Cont_PFCl_2,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+172,171,RH_Cont_PFCl_3,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+173,172,RH_Cont_PFCl_4,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+174,173,RH_Cont_PFCl_5,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+175,174,RH_Cont_PFCl_6,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+176,175,RH_Cont_PFCl_7,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+177,176,RH_Cont_pCun_1,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+178,177,RH_Cont_Cing_1,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+179,178,RH_Cont_Cing_2,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+180,179,RH_Cont_PFCmp_1,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+181,180,RH_Cont_PFCmp_2,Right,Control,FPN,Hejazi 2024 dissertation Appendix pp. 90-91
+182,181,RH_Default_Par_1,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+183,182,RH_Default_Par_2,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+184,183,RH_Default_Par_3,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+185,184,RH_Default_Temp_1,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+186,185,RH_Default_Temp_2,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+187,186,RH_Default_Temp_3,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+188,187,RH_Default_Temp_4,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+189,188,RH_Default_Temp_5,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+190,189,RH_Default_PFCv_1,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+191,190,RH_Default_PFCd/m_1,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+192,191,RH_Default_PFCd/m_2,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+193,192,RH_Default_PFCd/m_3,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+194,193,RH_Default_PFCd/m_4,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+195,194,RH_Default_PFCd/m_5,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+196,195,RH_Default_PFCd/m_6,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+197,196,RH_Default_PFCd/m_7,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+198,197,RH_Default_pCunPCC_1,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+199,198,RH_Default_pCunPCC_2,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
+200,199,RH_Default_pCunPCC_3,Right,Default Mode,DMN,Hejazi 2024 dissertation Appendix pp. 90-91
